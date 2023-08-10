@@ -1,6 +1,6 @@
 # Story Pages and Methodology 
 
-## Data Analysis 
+## Data
 
 `./raw data` contains the data used for research in this story. 
 
@@ -12,3 +12,7 @@ That includes:
 
 - Energy consumption data (by sector) downloaded from the [Mayor's Office of Climate and Environmental Justice](https://climate.cityofnewyork.us/initiatives/energy-and-water-map/)
 
+## Analysis 
+
+- `exploration.ipynb` contains exploratory analysis of the energy data disclosures 
+- `energy_consumption_chart.ipynb` contains the code to chart emissions by sector
