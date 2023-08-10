@@ -5,7 +5,7 @@
 
 That includes: 
 
-- Energy data disclosures (from 2021), downloaded from [NYC Open Data](https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh) (with separate data dictionary)
+- Energy data disclosures (from 2021), downloaded from [NYC Open Data](https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh) (with separate data dictionary) This shows the energy consumption data for all buildings over 25,000 square feet in New York City. 
 
 - Lobbying disclosure data. Manually compiled from lobbying disclosures downloaded from the Office of the City Clerk. 
 
