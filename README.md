@@ -1,7 +1,6 @@
-# Story Pages and Methodology 
+# Data used for Local Law 97 story: 
 
-## Data
-
+## Files 
 `./raw data` contains the data used for research in this story. 
 
 That includes: 
